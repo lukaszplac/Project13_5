@@ -1,0 +1,20 @@
+{
+  "name": "project13_5",
+  "version": "1.0.0",
+  "description": "Project 13.5. Part of the bootcamp Kodilla.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "project",
+    "kodilla",
+    "node"
+  ],
+  "author": "lukaszplac",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
